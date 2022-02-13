@@ -1,4 +1,4 @@
-##Olá eu sou a Brenda Gonçalves
+## Olá eu sou a Brenda Gonçalves
 
 - 🔭 Hoje trabalho fora da área de Tecnologia, sou atualmente Auxiliar Administrativo.
 - 🌱 Estudando HTML E CSS
