@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/brenda-gonçalves-teixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/i6250aoxj28tdp1mk7f20rnz9" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/hailedin/hailedin/blob/output/github-contribution-grid-snake.svg)
  </div>
   
   
