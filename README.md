@@ -1,6 +1,6 @@
 ## Olá eu sou a Brenda Gonçalves
 
-- 🔭 Hoje trabalho fora da área de Tecnologia, sou atualmente Auxiliar Administrativo.
+- 🔭 Hoje eu sou estudante de Fullstack na Alura
 - 🌱 Estudando HTML E CSS
 - 📫 Contate-me no email: brendahgoncalves2013@gmail.com
 - 😄 Ela/dela
